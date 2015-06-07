@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tacticas>
+	<tactica nombre="3-2-1">
+		<posiciones>
+			<pos>
+				<demarcacion>portero</demarcacion>
+				<x>75</x>
+				<y>225</y>
+			</pos>
+			<pos>
+				<demarcacion>defensa</demarcacion>
+				<x>175</x>
+				<y>225</y>
+			</pos>
+			<pos>
+				<demarcacion>lateral</demarcacion>
+				<x>200</x>
+				<y>370</y>
+			</pos>
+			<pos>
+				<demarcacion>lateral</demarcacion>
+				<x>200</x>
+				<y>80</y>
+			</pos>
+			<pos>
+				<demarcacion>mediocentro</demarcacion>
+				<x>280</x>
+				<y>150</y>
+			</pos>
+			<pos>
+				<demarcacion>mediocentro</demarcacion>
+				<x>300</x>
+				<y>290</y>
+			</pos>
+			<pos>
+				<demarcacion>delantero</demarcacion>
+				<x>425</x>
+				<y>225</y>
+			</pos>
+		</posiciones>
+	</tactica>
+	<tactica nombre="2-3-1">
+	<posiciones>
+			<pos>
+				<demarcacion>portero</demarcacion>
+				<x>75</x>
+				<y>225</y>
+			</pos>
+			<pos>
+				<demarcacion>defensa</demarcacion>
+				<x>150</x>
+				<y>145</y>
+			</pos>
+			<pos>
+				<demarcacion>defensa</demarcacion>
+				<x>150</x>
+				<y>315</y>
+			</pos>
+			<pos>
+				<demarcacion>delantero</demarcacion>
+				<x>310</x>
+				<y>85</y>
+			</pos>
+			<pos>
+				<demarcacion>mediocentro</demarcacion>
+				<x>250</x>
+				<y>225</y>
+			</pos>
+			<pos>
+				<demarcacion>delantero</demarcacion>
+				<x>310</x>
+				<y>380</y>
+			</pos>
+			<pos>
+				<demarcacion>delantero</demarcacion>
+				<x>425</x>
+				<y>225</y>
+			</pos>
+		</posiciones>
+	</tactica>
+</tacticas>
+
+
+
